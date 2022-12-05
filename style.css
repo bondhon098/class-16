@@ -1,0 +1,129 @@
+.header{
+    background-color: #101446;
+}
+.image img{
+    width: 80px;
+    
+}
+.menu ul{
+    list-style: none;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #ffffff;
+    display:block;
+    padding: 10px;
+    transition: .5s;
+}
+.menu ul li a:hover{
+    color: aqua;
+}
+/* banner */
+.banner{
+    background: url(./intro-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 300px 0px;
+}
+.banner-text h3{
+   text-transform: capitalize;
+   color: #ffffff;
+   padding-bottom: 20px;
+}
+.banner-text p{
+    text-transform: capitalize;
+    color: #ffffff;
+    padding-bottom: 20px;
+}
+.banner-text a{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #337ab7;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+/* teamm */
+.team{
+    background-color: #bac1f3;
+}
+.team h2{
+    color: #ffffff;
+    text-transform: capitalize;
+}
+.img-one {
+   padding-bottom: 70px;
+}
+.img-one p{
+    width: 150px;
+    margin: auto;
+    text-align: center;
+}
+.img-one h5{
+    text-transform: capitalize;
+}
+.img-one a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px ;
+    background-color: #337ab7;
+    border-radius: 5px;
+    color: white;
+    margin-top: 15px;
+}
+/* about */
+.about{
+    background-color: #808080;
+}
+.bon h2{
+    padding-top: 50px ;
+    text-transform: capitalize;
+}
+.hum{
+    text-align: justify;
+}
+.asiya{
+    text-align: justify;
+}
+.musfik h4{
+    text-align: left;
+    text-transform: capitalize;
+}
+.musfik p{
+    text-align: justify;
+    text-transform: capitalize;
+}
+.mota p{
+    font-size: 17px;
+    font-weight: 600;
+}
+/* .contact */
+.contact{}
+.gogle-map{
+    text-align: end;
+}
+.form-control{
+    width: 400px;
+}
+.maisa{
+    color: white;
+    background-color: #5bc0de;
+    width: 100px;
+}
+/* .foter */
+.foter{
+    background-color: #0062d3;
+    text-align: center;
+}
+.foter p{
+    color: white;
+    text-transform: capitalize;
+}
+.foter p span{
+    font-weight: 700;
+}
+
